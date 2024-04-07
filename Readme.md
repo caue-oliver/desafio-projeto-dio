@@ -1,4 +1,4 @@
-Crie uma variável para armazenar o nome ea quantidade de XP de um herói
+Crie uma variável para armazenar o nome e a quantidade de XP de um herói
 XP<1000 = FERRO
 1001<=XP<=2000 = BRONZE
 2001<=XP<=5000 = PRATA
